@@ -3,7 +3,7 @@
 ### Domain
 <p> The domain that our project models is a museum. We are going to model the inventory of
 exhibits and articles of the museum in addition to how visitors, museum employees, and article owners
-interact with them. There are fve different types of articles (identified by unique IDs) within the museum
+interact with them. There are five different types of articles (identified by unique IDs) within the museum
 and information is stored on their date of creation, exhibits they are displayed in, storage location, and
 condition. The project will also detail the owners of the articles and any contracts that they have with
 the museum. </p>
@@ -24,8 +24,7 @@ museum, visitors can view ticket information and exhibit and activity schedules,
 their contract and information about their article on loan to the museum. </p>
 
 ### Application platform
-<p> This project will be done using PHP/Oracle, specifically the CPSC department’s installation of
-Oracle. For front-end we are using JavaScript, ReactJS, and HTML. </p>
+<p> This project will be done using PHP/Oracle. For front-end UI we are using HTML. </p>
 
 ### Other Comments
 <p> If an article is on loan to another museum, the location will be to set to onLoan. Ticket price is

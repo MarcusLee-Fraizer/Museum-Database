@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-=======
 
-
->>>>>>> 6ff8662d5ad32cecbc9ce50ff29985878ef90e27
 <!--
     Front desk sells and refunds tickets and updates visitor information
 -->
